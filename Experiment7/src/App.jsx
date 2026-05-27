@@ -23,19 +23,19 @@ function App() {
         </h1>
 
         <Student
-          name="Nitin Bhardwaj"
+          name="Niharika"
           course="Computer Science"
           marks="100"
         />
 
         <Student
-          name="Niyatee Agrawal"
+          name="Niyatee"
           course="Information Technology"
           marks="92"
         />
 
         <Student
-          name="Ojesev Gupta"
+          name="Poorvi"
           course="Computer Science"
           marks="98"
         />
